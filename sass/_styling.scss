@@ -1,0 +1,30 @@
+@import "compass/css3/";
+body{
+  font: normal 14px Arial, Helvetica, sans-serif;
+  color:#5d160c;
+}
+h1{
+  font-size: 36px;
+  font-weight: bold;
+  text-align: center;
+  color: #f8931f;
+}
+h2{
+  font-size:20px;
+  text-align:center;
+  padding:0 0 40px 0;
+}
+.box{
+  background: #ddd;
+  border:1px solid #ccc;
+  @include box-sizing(border-box);
+  padding: 15px 0;
+}
+.licencia{
+  font-size:12px;
+  text-align:center;
+  padding:40px 0 10px;
+}
+.licencia a{
+  color:#f8931f;
+}

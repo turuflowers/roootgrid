@@ -146,7 +146,8 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
   }
 }
 body {
-  font-family: 'Trebuchet MS', sans-serif;
+  font: normal 14px Arial, Helvetica, sans-serif;
+  color: #5d160c;
 }
 
 h1 {
@@ -156,6 +157,12 @@ h1 {
   color: #f8931f;
 }
 
+h2 {
+  font-size: 20px;
+  text-align: center;
+  padding: 0 0 40px 0;
+}
+
 .box {
   background: #ddd;
   border: 1px solid #ccc;
@@ -163,4 +170,14 @@ h1 {
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
   padding: 15px 0;
+}
+
+.licencia {
+  font-size: 12px;
+  text-align: center;
+  padding: 40px 0 10px;
+}
+
+.licencia a {
+  color: #f8931f;
 }
