@@ -1,6 +1,5 @@
 @import "compass/css3/";
 
-
 .roootgrid{
 
   .wrapper{
@@ -24,17 +23,6 @@
   }
 
   .flex{
-    .col-1{
-      width:33.33%;
-    }
-    .col-2{
-      width:66.66%;
-    }
-    .col-3{
-      width:100%;
-    }
-  }
-  .flex-md{
     .col-1{
       width:33.33%;
     }
@@ -101,6 +89,18 @@
     }
     .col-3{
       width:640px;
+    }
+
+    .flex-md{
+      .col-1{
+        width:33.33%;
+      }
+      .col-2{
+        width:66.66%;
+      }
+      .col-3{
+        width:100%;
+      }
     }
 
   }

@@ -81,15 +81,6 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
 .roootgrid .flex .col-3 {
   width: 100%;
 }
-.roootgrid .flex-md .col-1 {
-  width: 33.33%;
-}
-.roootgrid .flex-md .col-2 {
-  width: 66.66%;
-}
-.roootgrid .flex-md .col-3 {
-  width: 100%;
-}
 .roootgrid .gutter-both {
   padding: 0 10px;
 }
@@ -129,6 +120,15 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
   }
   .roootgrid .col-3 {
     width: 640px;
+  }
+  .roootgrid .flex-md .col-1 {
+    width: 33.33%;
+  }
+  .roootgrid .flex-md .col-2 {
+    width: 66.66%;
+  }
+  .roootgrid .flex-md .col-3 {
+    width: 100%;
   }
 }
 @media (min-width: 960px) {
