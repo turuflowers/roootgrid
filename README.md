@@ -4,24 +4,24 @@ roootGrid
 Summary
 ---
 
-Responsive grid very basic, 320px module base.
+Very basic responsive grid, 320px module base.
 It has modules of 320px, till 960px (for now).
 
-Demo :
+Demo
 ---
 ### http://roootgroup.com.ar/roootGrid/
 
 Installation
 ---
-There are SCSS files with Compass, but also the standalone grid.css file
+There are SCSS files for Compass, but also the standalone grid.css file
 
 Contribute
 ---
-Be my guest!
+Be my guest! that's why it's on GitHub :)
 
 License
 ---
-[Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-nc-sa/3.0/)
+[MIT license](http://opensource.org/licenses/MIT)
 
 Author
 ---
