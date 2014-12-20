@@ -6,10 +6,15 @@ Summary
 
 Very basic responsive grid, 320px module base.
 It has modules of 320px, till 960px (for now).
+It's great for FAST responsive prototyping, because the media queries breakpoints are only three.
 
 Demo
 ---
 ### http://roootgroup.com.ar/roootGrid/
+
+Websites using roootGrid
+---
+*** coming soon! ***
 
 Installation
 ---
