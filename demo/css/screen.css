@@ -1,3 +1,6 @@
+.roootgrid {
+  margin: 0;
+}
 .roootgrid .wrapper {
   margin: 0 auto;
   position: relative;
@@ -108,12 +111,35 @@ h2 {
 }
 
 .box {
-  background: #ddd;
   border: 1px solid #ccc;
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
   padding: 15px 0;
+}
+
+.fila1 .box {
+  background: #ffcc66;
+}
+
+.fila2 .box {
+  background: #ffff66;
+}
+
+.fila3 .box {
+  background: #ccff66;
+}
+
+.fila4 .box {
+  background: #66ff99;
+}
+
+.fila5 .box {
+  background: #66ffcc;
+}
+
+.fila6 .box {
+  background: #ffcccc;
 }
 
 .licencia {
