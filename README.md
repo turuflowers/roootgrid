@@ -14,7 +14,8 @@ Demo
 
 Websites using roootGrid
 ---
-*** coming soon! ***
+[Colegio San Javier] (http://www.colegiosanjavier.com.ar/)
+*** more are about to coming up soon! ***
 
 Installation
 ---

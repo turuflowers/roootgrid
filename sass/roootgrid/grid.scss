@@ -6,6 +6,7 @@
   .wrapper{
     margin: 0 auto;
     position: relative;
+    clear: both;
   }
 
   .row{
@@ -15,7 +16,8 @@
 
   .col-1,
   .col-2,
-  .col-3
+  .col-3,
+  .col-50
   {
     position: relative;
     min-height: 1px;
@@ -32,6 +34,9 @@
     }
     .col-3{
       width:100%;
+    }
+    .col-50{
+      width:50%;
     }
   }
 
@@ -64,9 +69,12 @@
     .col-3{
       width:320px;
     }
+    .col-50{
+      width:100%;
+    }
 
     .flex-md{
-      .col-1, .col-2, .col-3{
+      .col-1, .col-2, .col-3, .col-50{
         width:100%;
       }
     }
@@ -91,6 +99,9 @@
     .col-3{
       width:640px;
     }
+    .col-50{
+      width:50%;
+    }
 
     .flex-md{
       .col-1{
@@ -101,6 +112,9 @@
       }
       .col-3{
         width:100%;
+      }
+      .col-50{
+        width:50%;
       }
     }
 
@@ -123,6 +137,22 @@
     .col-3{
       width:960px;
     }
+    .col-50{
+      width:50%;
+    }
 
   }
+}
+
+.clearfix:before, .clearfix:after {
+  content: "";
+  display: table;
+}
+
+.clearfix:after {
+  clear: both;
+}
+
+.clearfix {
+  zoom: 1;
 }
