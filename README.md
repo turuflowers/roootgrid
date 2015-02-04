@@ -18,9 +18,16 @@ Websites using roootGrid
 
 *** more are about to coming up soon! ***
 
-Installation
+Getting Started
 ---
-There are SCSS files for Compass, but also the standalone grid.css file
+* Get the [.zip] (https://github.com/turuflowers/roootgrid/archive/master.zip) or [clone the project] (https://github.com/turuflowers/roootgrid.git)
+* Take a look inside the folder "demo", there is a standalone HTML for you to start to play around
+* Notice that the body should have de class "roootgrid"
+* Any time that you want a grid content, just put the .wrapper with some cols inside
+
+Compile
+---
+There are SCSS files for Compass for you to use in your Compass project, but also the standalone grid.css file on the "dist" folder
 
 Contribute
 ---
