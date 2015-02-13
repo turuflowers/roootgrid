@@ -6,7 +6,8 @@ Summary
 
 Very basic responsive grid, 320px module base.
 It has modules of 320px, till 960px (for now).
-It's great for FAST responsive prototyping, because the media queries breakpoints are only three.
+It's great for simple responsive prototyping, because the media queries breakpoints are only three. It's not a framework like [Bootstrap](http://getbootstrap.com) or [Foundation] (http://foundation.zurb.com/). You still have to make the CSS of all the elements, but you have the grid.
+If you want a framework, you could use Bootstrap, Foundation, etc., or you could combine this grid with micro CSS frameworks, like [MOSTO] (http://www.valdelama.com/mosto), [Colors] (http://clrs.cc/), [Normalize] (http://necolas.github.io/normalize.css/)
 
 Demo
 ---
