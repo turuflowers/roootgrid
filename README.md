@@ -19,6 +19,7 @@ Demo
 Websites using roootGrid
 ---
 [Colegio San Javier] (http://www.colegiosanjavier.com.ar/)
+[CMI Medios Regionales] (http://www.cmimediosregionales.com.ar//)
 
 *** more are about to coming up soon! ***
 
