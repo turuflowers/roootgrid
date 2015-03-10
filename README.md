@@ -18,6 +18,7 @@ Demo
 
 Websites using roootGrid
 ---
+* [Paleorama] (http://www.paleorama.com.ar/)
 * [Muge] (http://www.muge.com.ar/)
 * [Colegio San Javier] (http://www.colegiosanjavier.com.ar/)
 * [CMI Medios Regionales] (http://www.cmimediosregionales.com.ar//)
